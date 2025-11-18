@@ -35,7 +35,7 @@ Before you begin, ensure you have the following installed:
 
 1. **Clone the repository**
 ```bash
-   git clone <repository-url>
+   git clone https://github.com/chaudhary-hadi27/mr-x-saloon.git
    cd mr-x-saloon
 ```
 
